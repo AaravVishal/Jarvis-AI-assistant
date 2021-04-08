@@ -1,0 +1,2 @@
+# Jarvis-AI-assistant
+It is an AI assistant. It has many commands like opening Google or Youtube. To run this project, you need to install some modules by opening CMD or Powershell at the folder where you have installed this project and typing pip install -r Requirements. After installing the requirements you can run the project by typing python Jarvis.py in your CMD or Powershell. Hope you Enjoy this project.
